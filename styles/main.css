@@ -1,0 +1,17 @@
+nav a{
+text-decoration: none;
+background-color: darkolivegreen;
+color: goldenrod;
+font-size: 2em;
+padding: 1em;
+margin-right: 3px;
+border-radius: 0.25em;
+}
+nav{
+    display: block;
+    margin: 1em;
+}
+
+body{
+    font-family: 'Trebuchet';
+}
