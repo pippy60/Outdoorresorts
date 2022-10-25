@@ -18,5 +18,5 @@ function navLink (item){
 
 document.addEventListener("DOMContentLoaded", () => {
 const nav= document.getElementById("nav");
-navURLs.forEach(item => nav.appendChild(navLink(item)) += `<a href="${item.url}">${item.name}</a>`
+navURLs.forEach(item => nav.appendChild(navLink(item)) += `<a href="${item.url}">${item.name}</a>`)
 });
