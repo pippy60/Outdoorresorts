@@ -1,6 +1,7 @@
 body{
-    padding: 1em;
-    background-color: skyblue;
+    padding: 2em;
+    background-image: url("/Outdoorresorts/images/nat.gif");
+
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 nav{
